@@ -4,8 +4,8 @@
             <!-- Logo -->
             <div class="navbar-brand">
                 <a href="{{ url('/') }}">
-                    <img src="{{ asset('images/logo.png') }}" alt="SMA Muhammadiyah 1 Taman" class="logo">
-                    <span class="brand-text">SMA Muhammadiyah 1 Taman</span>
+                    <img src="{{ asset('images/logo.png') }}" alt="SMA Negeri 1 Contoh" class="logo">
+                    <span class="brand-text">SMA Negeri 1 Contoh</span>
                 </a>
             </div>
             

@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>@yield('title', 'SMA Muhammadiyah 1 Taman')</title>
+    <title>@yield('title', 'SMA Negeri 1 Contoh')</title>
     
     <!-- Favicon -->
     <link rel="icon" type="image/x-icon" href="{{ asset('images/favicon.ico') }}">
@@ -29,7 +29,7 @@
         <div class="container">
             <div class="footer-content">
                 <div class="footer-section footer-about">
-                    <h3>SMA Muhammadiyah 1 Taman</h3>
+                    <h3>SMA Negeri 1 Contoh</h3>
                     <p>Sekolah berbasis islami unggul prestasi. Sholeh Dalam Perilaku, Unggul Dalam Mutu dan Berdaya Saing Global.</p>
                     <div class="footer-social">
                         <a href="#" class="social-icon" aria-label="Facebook"><i class="fab fa-facebook"></i></a>
@@ -82,7 +82,7 @@
             </div>
             
             <div class="footer-bottom">
-                <p>&copy; {{ date('Y') }} SMA Muhammadiyah 1 Taman. All Rights Reserved.</p>
+                <p>&copy; {{ date('Y') }} SMA Negeri 1 Contoh. All Rights Reserved.</p>
             </div>
         </div>
     </footer>

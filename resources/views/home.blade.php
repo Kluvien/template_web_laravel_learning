@@ -1,6 +1,6 @@
 @extends('layouts.main')
 
-@section('title', 'Home - SMA Muhammadiyah 1 Taman')
+@section('title', 'Home - SMA Negeri 1 Contoh')
 
 @section('content')
 <!-- Hero Section -->
@@ -9,9 +9,9 @@
     <div class="hero-content">
         <div class="container">
             <h1 class="hero-title">Dari SMAMITA untuk BANGSA</h1>
-            <p class="hero-subtitle">Bersama SMA Muhammadiyah 1 Taman, Membangun Karakter untuk Indonesia</p>
+            <p class="hero-subtitle">Bersama SMA Negeri 1 Contoh, Membangun Karakter untuk Indonesia</p>
             <p class="hero-description">
-                SMA Muhammadiyah 1 Taman adalah sekolah berbasis islami unggul prestasi. 
+                SMA Negeri 1 Contoh adalah sekolah berbasis islami unggul prestasi. 
                 Terletak di Provinsi Jawa Timur, Kabupaten Sidoarjo, Kecamatan Taman. 
                 Berbekal Keahlian Kompetensi dengan menerapkan berbudaya Islam.
             </p>
@@ -256,7 +256,7 @@
         <div class="cta-content">
             <h2 class="cta-title">Bergabunglah Bersama Kami</h2>
             <p class="cta-description">
-                Daftarkan putra-putri Anda di SMA Muhammadiyah 1 Taman dan raih masa depan yang gemilang
+                Daftarkan putra-putri Anda di SMA Negeri 1 Contoh dan raih masa depan yang gemilang
             </p>
             <a href="{{ url('/ppdb') }}" class="btn btn-light">Daftar PPDB Sekarang</a>
         </div>

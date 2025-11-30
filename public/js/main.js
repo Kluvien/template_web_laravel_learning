@@ -139,7 +139,7 @@ document.addEventListener('DOMContentLoaded', function() {
     
     animateOnScroll();
     
-    console.log('SMA Muhammadiyah 1 Taman - Template Loaded Successfully');
+    console.log('SMA Negeri 1 Contoh - Template Loaded Successfully');
 });
 
 // Utility function for form handling
