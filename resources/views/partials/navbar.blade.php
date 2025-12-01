@@ -31,7 +31,7 @@
                     @forelse($menus as $menu)
                         <li class="nav-item">
                             <a href="{{ url($menu->slug) }}" 
-                               class="nav-link {{ request()->is($menu->slug) ? 'active' : '' }}">
+                               class="nav-link {{ request()->is(trim($menu->slug, '/')) || ($menu->slug == '/' && request()->is('/')) ? 'active' : '' }}">
                                 {{ $menu->name }}
                             </a>
                         </li>
